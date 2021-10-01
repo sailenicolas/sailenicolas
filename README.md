@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a open source project
-- 📫 How to reach me saile@saile.com.ar
+- 📫 How to reach me jobs@saile.com.ar
 
 <!---
 sailenicolas/sailenicolas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
