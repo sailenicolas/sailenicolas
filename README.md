@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sailenicolas
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a open source project
 - 📫 How to reach me jobs@saile.com.ar
 
